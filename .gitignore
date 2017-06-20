@@ -3,3 +3,4 @@ q/
 presentations/
 *.pyc
 *.swp
+presentation/.ipynb_checkpoints/Deterministic Policy Gradients-checkpoint.ipynb
